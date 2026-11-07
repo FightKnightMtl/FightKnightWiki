@@ -2,7 +2,7 @@
 title: The Green Knight
 description: 
 published: true
-date: 2026-11-07T17:37:27.960Z
+date: 2026-11-07T17:38:48.943Z
 tags: fighters
 editor: markdown
 dateCreated: 2026-10-30T02:40:49.118Z
@@ -22,7 +22,7 @@ The Green Knight has been crowned champion twice - first in [Fight Knight 6](/en
 
 Seeking to maintain pressure on their opponents, the Green Knight prefers entering with quick strikes while maintaining distance. When pressed, they leverage their speed and agility to get in close and grapple their opponents, often forcing them into a wall before breaking distance and resuming their strategy of striking from afar.
 
-The Green Knight is prone to showboating, favouring deeply exaggerated stances and flourishes aimed at the crowd. They will refrain from hitting a disarmed opponent and may even return a lost weapon, but will become angered if the courtesy is not mutual. This has led to a grudge with [Sourpuss](/en/fighters/green-knight/sourpuss) and a deep disliking for the [Dark Knight](/en/fighters/green-knight/dark-knight).
+The Green Knight is prone to showboating, favouring deeply exaggerated stances and flourishes aimed at the crowd. They will refrain from hitting a disarmed opponent and may even return a lost weapon, but will become angered if the courtesy is not mutual. This has led to a grudge with [Sourpuss](/en/fighters/sourpuss) and a deep disliking for the [Dark Knight](/en/fighters/dark-knight).
 
 # Lore
 
